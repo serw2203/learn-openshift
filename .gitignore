@@ -31,4 +31,5 @@ build/
 .vscode/
 .mvn
 mvnw*
+*.http
 
